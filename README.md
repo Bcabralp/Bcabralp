@@ -1,4 +1,4 @@
-### Salve sou o Bernardo 
+### Opa, bão? Sou o Bernardo 
 <h4>- Estudante de Programação no Colégio Cotemig em Belo Horizonte. </h4>
 <h5>- HTML, CSS e C# Básico. </h5>
 
