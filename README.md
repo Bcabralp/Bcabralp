@@ -1,7 +1,6 @@
 ### Opa, bão? Sou o Bernardo 
-<h4>- Estudante de Programação no Colégio Cotemig em Belo Horizonte. </h4>
-<h5>- HTML, CSS e 
-C# Básico. </h5>
+<h4>- Estou cursando Análise e Desenvolvimento de Sistemas na Universidade PUC minas </h4>
+<h5>- Habilidades Front-end e Back-end</h5>
 
 <div align="center">
   <a href="https://github.com/SdzX3">
